@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7b59055a8a8894cbe0118c1e8ae177, type: 3}
+  m_Name: Freighter
+  m_EditorClassIdentifier: 
+  slots:
+  - {fileID: 11400000, guid: d114f7b9d88f5f340b3673c9f365ddb7, type: 2}
+  - {fileID: 11400000, guid: 5f9e5d4a06d56ec4b829040a2df41d08, type: 2}
+  - {fileID: 11400000, guid: f7312af6cb5352f47b8a4c405cfac252, type: 2}
+  - {fileID: 11400000, guid: f7312af6cb5352f47b8a4c405cfac252, type: 2}
+  - {fileID: 11400000, guid: 71629581d22b7144ead300f27a80c9cf, type: 2}
+  modules_by_slot: []
